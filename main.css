@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.deepBlue{
+    background-color: #02042a;
+}
+.textdeepBlueHead{
+    color:#162f56 ;
+}
+.bglightBlue{
+    color: #2b84ea;
+}
+.textlightBlue500{
+    color: #0b72e7;
+}
